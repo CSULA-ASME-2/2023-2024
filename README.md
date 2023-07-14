@@ -4,8 +4,8 @@
   - [Drone Project] (#Drone)
   - [Side proejects] (#Side Project)
 
-#About
+# About
 
-#Drone 
+# Drone 
 
-#Side Projects
+# Side Projects
