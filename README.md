@@ -2,10 +2,10 @@
 # Table of Contents
   - [About](#About)
   - [Drone Project](#Drone)
-  - [Side projects](#Side_Project)
+  - [Side projects](#Side-Projects)
 
 # About
 
 # Drone 
 
-# Side Project
+# Side Projects
