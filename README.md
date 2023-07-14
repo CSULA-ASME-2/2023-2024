@@ -2,7 +2,7 @@
 # Table of Contents
   - [About](#About)
   - [Drone Project](#Drone)
-  - [Side proejects](#Side Project)
+  - [Side projects](#Side_Project)
 
 # About
 
